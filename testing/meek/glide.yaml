@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 package: meek
 import:
 - package: git.torproject.org/pluggable-transports/goptlib.git

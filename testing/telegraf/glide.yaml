@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 package: github.com/influxdata/telegraf
 import:
 - package: code.cloudfoundry.org/clock
@@ -202,7 +205,7 @@ import:
   version: 3c9377fc6748f222729a8270fe2775d149a249ad
 - package: github.com/Shopify/sarama
   version: 3b1b38866a79f06deddf0487d5c27ba0697ccd65
-- package: github.com/Sirupsen/logrus
+- package: github.com/sirupsen/logrus
   version: 61e43dc76f7ee59a82bdf3d71033dc12bea4c77d
 - package: github.com/soniah/gosnmp
   version: f15472a4cd6f6ea7929e4c7d9f163c49f059924f

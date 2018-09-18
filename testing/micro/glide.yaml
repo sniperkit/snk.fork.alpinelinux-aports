@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 package: github.com/zyedidia/micro
 import:
 - package: github.com/blang/semver
